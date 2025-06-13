@@ -1,2 +1,2 @@
 print"file is displayed"
-Am trying to aedit this file
+Am trying to edit this file
